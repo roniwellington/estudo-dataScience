@@ -16,3 +16,8 @@ Durante este módulo introdutório, explorei os seguintes tópicos:
 
 ## 🗂 Estrutura do repositório
 
+estudo-dataScience/
+└── introducaoDataScience/
+├── exemplos/
+├── exercicios/
+└── README.md ← (Você está aqui)
